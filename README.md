@@ -1,0 +1,1 @@
+# aws_dotnet_secret_manager
